@@ -1,3 +1,3 @@
 # Jose_estudo
  Momento de estudo
-Aqui estarei treinando alguns conceitos e montando um pequeno portfólio 
+Estudo de alguns conceitos e montagemde portfólio 
